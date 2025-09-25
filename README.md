@@ -1,7 +1,6 @@
 # olá eu sou o Miguel
-<div>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migfc&show_icons=true&theme=dracula)
-</div>
 
 ##
 ## linguas usadas
