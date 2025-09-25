@@ -1,4 +1,4 @@
-# olá eu sou o Miguel
+# olá eu sou o Miguel de Freitas Coimbra
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migfc&show_icons=true&theme=dracula)
 
